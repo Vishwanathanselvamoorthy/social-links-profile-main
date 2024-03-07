@@ -21,7 +21,7 @@ developer-portfolio/
 └── styles.css
 
 ## Project Link : https://social-links-profile-main-eta.vercel.app/
-## Repo Link : 
+## Repo Link : https://github.com/Vishwanathanselvamoorthy/social-links-profile-main
 
 ## Acknowledgments 🙏
 Thanks to Frontend Mentor for providing the design challenge used for this project.
