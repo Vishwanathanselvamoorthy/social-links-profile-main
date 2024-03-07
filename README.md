@@ -23,3 +23,8 @@ developer-portfolio/
 ## Acknowledgments 🙏
 Thanks to Frontend Mentor for providing the design challenge used for this project.
 
+## Screenshots 📸
+
+![image](https://github.com/Vishwanathanselvamoorthy/social-links-profile-main/assets/147639866/2b7d2eac-d386-4c84-ac07-d46b714ae6b8)
+
+
