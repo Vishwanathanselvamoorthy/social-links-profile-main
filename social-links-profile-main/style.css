@@ -1,0 +1,60 @@
+body {
+  background-color: hsl(0, 0%, 8%);
+  color: white;
+  font-family: "Inter", sans-serif;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.card-container {
+  background-color: hsl(0, 0%, 12%);
+
+  padding: 50px 20px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+.card-container p {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.card-container #green-text {
+  color: hsl(75, 94%, 57%);
+  font-weight: bold;
+}
+
+.card-container .social-media {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.card-container .social-media p {
+  background-color: hsl(0, 0%, 20%);
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.card-container .social-media p:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
+}
+.card-container .social-media p:active {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
+}
